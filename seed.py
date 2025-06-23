@@ -35,4 +35,4 @@ cursor.executemany(
 conn.commit()
 conn.close()
 
-print("База даних успішно заповнена випадковими даними!")
+print("База даних успішно заповнена!")
